@@ -1,0 +1,19 @@
+{
+  "name": "hand_digit_recognition",
+  "version": "1.0.0",
+  "description": "A hand digit recognition app which uses a TensorFlow model to recognize handwritten digits using convolutional neural networks.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tensorflow",
+    "javascript"
+  ],
+  "author": "Abimbola Oluyemi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
